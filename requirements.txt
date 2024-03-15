@@ -10,4 +10,5 @@ torch
 tqdm
 datasets
 filelock
+bert-score
 # zh-core-web-sm==3.5.0
