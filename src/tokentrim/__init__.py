@@ -311,7 +311,7 @@ class Compress:
         return context, masked_sents
 
 def object(text):
-    sc = Compress(model_type='gpt2', lnag='eg')
+    sc = Compress(model_type='gpt2', lang='eg')
     context=[]
     
     compression_ratios = [0.3,0.4,0.5,0.6,0.7,0.8]
