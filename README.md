@@ -7,4 +7,5 @@ Instructed GPT-2 for Token Pruning: In the second step, we utilized a finely-tun
 
 This dual approach—combining semantic density with token pruning—allowed TokenTrim to significantly reduce token overhead, making LLM interactions more cost-effective without degrading the quality of responses.
 
-Kindly to refer to the *Selective Context* python library which was used as a part of the second step.
+## Refrence
+Refer to the *Selective Context* python library which was used as a part of the second step.
