@@ -6,10 +6,10 @@ name = "trimtoken"
 version = "0.1.4"
 description = "Compress your prompt."
 authors = [{name = "Udayveer Virk", email = "b21143@students.iitmandi.ac.in"}, 
-            {name = 'Taraksh Sambhar', email = 'b21171@students.iitmandi.ac.in}, 
-            {name = 'Ekansh Singh', email = 'b21154@students.iitmandi.ac.in},
-            {name = 'Suhana', email = 'b21229@students.iitmandi.ac.in},
-            {name = 'Samvaidan Salgotra', email = 'b21163@students.iitmandi.ac.in}]
+            {name = 'Taraksh Sambhar', email = 'b21171@students.iitmandi.ac.in'}, 
+            {name = 'Ekansh Singh', email = 'b21154@students.iitmandi.ac.in'},
+            {name = 'Suhana', email = 'b21229@students.iitmandi.ac.in'},
+            {name = 'Samvaidan Salgotra', email = 'b21163@students.iitmandi.ac.in'}]
 readme = "readme.md"
 classifiers = [
     "Programming Language :: Python",
