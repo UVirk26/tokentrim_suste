@@ -1,4 +1,4 @@
-# tokentrim_suste
+# Tokentrim_suste
 TokenTrim was developed as part of IIT Roorkee's prestigious Tech Fest in March 2024, addressing a sophisticated challenge: reducing token overhead in user prompts to minimize the computational costs of utilizing large language models (LLMs). The task required designing a Python tool that intelligently mediates between the user and the LLM by optimizing token usage. The solution involved two innovative strategies:
 
 Semantic Compression through Lexicalization: The first step leveraged the power of semantically dense words (lexicalized concepts) to replace verbose sentences. By compressing complex meanings into single words, the tool effectively reduced the token count, enhancing the efficiency of prompts without compromising the conveyed intent.
@@ -9,3 +9,5 @@ This dual approach—combining semantic density with token pruning—allowed Tok
 
 ## Refrence
 Refer to the *Selective Context* python library which was used as a part of the second step.
+
+### TokenTrim Cognizance IIT Roorkee 2024 winner repository.
